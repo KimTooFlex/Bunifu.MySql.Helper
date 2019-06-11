@@ -1,0 +1,8 @@
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\Bunifu.MySql.Helper\bin\Debug\Bunifu.MySql.Helper.dll
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\Bunifu.MySql.Helper\bin\Debug\Bunifu.MySql.Helper.pdb
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\Bunifu.MySql.Helper\bin\Debug\MySql.Data.dll
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\Bunifu.MySql.Helper\obj\Debug\Bunifu.MySql.Helper.csproj.CoreCompileInputs.cache
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\Bunifu.MySql.Helper\obj\Debug\Bunifu.MySql.Helper.dll
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\Bunifu.MySql.Helper\obj\Debug\Bunifu.MySql.Helper.pdb
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\Bunifu.MySql.Helper\obj\Debug\Bunifu.MySql.Helper.csprojAssemblyReference.cache
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\Bunifu.MySql.Helper\obj\Debug\Bunifu.MySql.Helper.csproj.CopyComplete

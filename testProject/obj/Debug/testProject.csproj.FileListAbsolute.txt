@@ -1,0 +1,17 @@
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\testProject\bin\Debug\testProject.exe.config
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\testProject\bin\Debug\testProject.exe
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\testProject\bin\Debug\testProject.pdb
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\testProject\bin\Debug\Bunifu.MySql.Helper.dll
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\testProject\bin\Debug\MySql.Data.dll
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\testProject\bin\Debug\Bunifu.MySql.Helper.pdb
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\testProject\obj\Debug\testProject.Form1.resources
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\testProject\obj\Debug\testProject.Properties.Resources.resources
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\testProject\obj\Debug\testProject.csproj.GenerateResource.Cache
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\testProject\obj\Debug\testProject.csproj.CoreCompileInputs.cache
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\testProject\obj\Debug\testProject.exe
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\testProject\obj\Debug\testProject.pdb
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\testProject\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\testProject\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\testProject\bin\Debug\Bunifu.Core.dll
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\testProject\obj\Debug\testProject.csprojAssemblyReference.cache
+C:\Users\KIM TOO FLEX\source\repos\Bunifu.MySql.Helper\testProject\obj\Debug\testProject.csproj.CopyComplete
